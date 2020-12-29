@@ -9,7 +9,7 @@ import SwiftUI
 import Foundation
 
 struct QuoteView: View {
-    fileprivate let ApiKey = "HclNqtxmjblcYDcqR3SMVQeF"
+    fileprivate let ApiKey = "INSERT API KEY HERE"
     // On initialization it looks like this:
     @State var quote = "--"
     @State var author = "--"
